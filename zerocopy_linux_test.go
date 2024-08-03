@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"acln.ro/zerocopy"
+	"github.com/hopehook/zerocopy"
 )
 
 func TestTeeRead(t *testing.T) {
