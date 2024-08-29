@@ -1,4 +1,4 @@
-module github.com/hopehook/zerocopy
+module github.com/orca-zhang/zerocopy
 
 go 1.12
 
